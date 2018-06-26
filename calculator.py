@@ -6,3 +6,7 @@ def multiply(a,b):
     c = a*b
     print (c)
     return
+def div(a,b):
+    c=a/b
+    print(c)
+    return
